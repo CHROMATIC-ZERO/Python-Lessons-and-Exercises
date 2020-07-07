@@ -1,3 +1,4 @@
+# PYTHON CRASH COURSE - Eric Matthes
 # --Chapter 2: VARIABLES AND SIMPLE DATA TYPES--
 # 2.1 - Simple Message:
 msg = "Yo. This is a message from Chromatic_Zero"
